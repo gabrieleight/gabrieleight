@@ -1,4 +1,4 @@
-## Hello!!
+## Hello World! I'm Gabriel Gilberto (GG)
 ![](https://komarev.com/ghpvc/?username=gabrieleight&color=grey)
 
 ### About me
