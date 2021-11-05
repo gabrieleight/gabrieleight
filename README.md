@@ -16,6 +16,6 @@ I'm a physics undergraduate student at [Federal University of Ceará](http://ufc
 
 ### Statistics
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieleight&custom_title=My GitHub Stats (@gabrieleight)&count_private=true&hide=prs,issues&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=F8F8FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieleight&layout=default&bg_color=151515&text_color=F8F8FF&title_color=F8F8FF">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieleight&custom_title=My GitHub Stats (@gabrieleight)&count_private=true&theme=dark&include_all_commits=true&count_private=true&icon_color=F8F8FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieleight&layout=default&bg_color=151515&text_color=F8F8FF&title_color=F8F8FF"/>
 <div>
