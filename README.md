@@ -1,10 +1,15 @@
-# print("Hello World!")... Welcome :rocket:
+# print("Hello World!")... Welcome :man_astronaut::rocket:
 ![](https://komarev.com/ghpvc/?username=gabrieleight&color=grey)
 ![](https://img.shields.io/github/stars/gabrieleight?color=grey&logoColor=grey)
 
-### About me
+### About me :sassy_man:
 - Firstly, my name is Gabriel (but you can just call me "GG", no problems :grin:)
-- I'm a physics undergraduate student at [Federal University of Ceará](http://ufc.br/).
+- I'm a undergraduate student at the [Federal University of Ceará](http://ufc.br/), studying licentiate's degree in Physics, but already thinking in the bachelor's degree :atom_symbol:.
+- Moreover, I work at the Advanced Functional Materials Laboratory (UFC) as undergraduate researcher, conducting research with applications of carbonaceous materials.
+- Programming enthusiast, mainly in back-end programming and data science :man_technologist:.
+
+<!-- Colocar uma seção "linguagens que sei ou quero aprender", enumerando as principais linguagens que uso e as que tenho vontade de desenvolver --> 
+<!-- Colocar uma seção explicando os repositórios do meu GitHub --> 
 
 ### My social networks (if you want, you can contact me :call_me_hand:)
 <div>
