@@ -3,7 +3,7 @@
 ![](https://img.shields.io/github/stars/gabrieleight?color=grey&logoColor=grey)
 
 ### About me :sassy_man:
-- Firstly, my name is Gabriel (but you can just call me "GG", no problems :grin:)
+- Firstly, my name is Gabriel (but you can just call me "GG", no problems :grin:) and i'm 22 years old!
 - I'm a undergraduate student at the [Federal University of Ceará](http://ufc.br/), studying licentiate's degree in Physics, but already thinking in the bachelor's degree :atom_symbol:.
 - Moreover, I work at the Advanced Functional Materials Laboratory (UFC) as undergraduate researcher, conducting research with applications of carbonaceous materials.
 - Programming enthusiast, mainly in back-end programming and data science :man_technologist:.
