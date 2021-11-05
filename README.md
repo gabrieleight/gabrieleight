@@ -20,7 +20,7 @@
   
 ### My latest projects
 - [/gabrieleight/Faculdade](https://github.com/gabrieleight/Faculdade) - Codes produced by me, when i was made the discipline CK0030 - Programming Fundamentals, in the second semester of the college. In this repository, there are some scripts written in Python and some files in Jupyter Notebooks format.
-- [/gabrieleight/ICT-research-data](https://github.com/gabrieleight/ICT-research-data) - In this repository, there are all the research data produced in the undergraduate research scholarship programs in which i participated.
+- [/gabrieleight/ICT-research-data](https://github.com/gabrieleight/ICT-research-data) - In this repository, there are all the research data produced in the undergraduate research scholarship programs in which i participate/participated. This is an effort to follow open science policy.
 
 ### My social networks (if you want, you can contact me :call_me_hand:)
 <div>
