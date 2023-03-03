@@ -14,9 +14,8 @@
 ### Some statistics :chart_with_upwards_trend:
 <div>
   <a href="https://github.com/gabrieleight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieleight&custom_title=My GitHub Stats (@gabrieleight)&count_private=true&theme=dark&include_all_commits=true&count_private=true&icon_color=F8F8FF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieleight&layout=default&bg_color=151515&text_color=F8F8FF&title_color=F8F8FF"/>
-<div>
+</div>
   
 ### My latest projects
 - [/gabrieleight/Faculdade](https://github.com/gabrieleight/Faculdade) - Codes produced by me, when i was made the discipline CK0030 - Programming Fundamentals, in the second semester of the college. In this repository, there are some scripts written in Python and some files in Jupyter Notebooks format.
