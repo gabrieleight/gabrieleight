@@ -12,6 +12,7 @@
 <!-- Colocar uma seção "linguagens que sei ou quero aprender", enumerando as principais linguagens que uso e as que tenho vontade de desenvolver --> 
 
 ### Some statistics :chart_with_upwards_trend:
+![Some statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieleight&layout=default&bg_color=151515&text_color=F8F8FF&title_color=F8F8FF)
 <div>
   <a href="https://github.com/gabrieleight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieleight&layout=default&bg_color=151515&text_color=F8F8FF&title_color=F8F8FF"/>
