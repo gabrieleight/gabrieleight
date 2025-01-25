@@ -11,13 +11,6 @@
 
 <!-- Colocar uma seção "linguagens que sei ou quero aprender", enumerando as principais linguagens que uso e as que tenho vontade de desenvolver --> 
 
-### Some statistics :chart_with_upwards_trend:
-![Some statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieleight&layout=default&bg_color=151515&text_color=F8F8FF&title_color=F8F8FF)
-<div>
-  <a href="https://github.com/gabrieleight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieleight&layout=default&bg_color=151515&text_color=F8F8FF&title_color=F8F8FF"/>
-</div>
-  
 ### My latest projects
 - [/gabrieleight/Faculdade](https://github.com/gabrieleight/Faculdade) - Codes produced by me, when i was made the discipline CK0030 - Programming Fundamentals, in the second semester of the college. In this repository, there are some scripts written in Python and some files in Jupyter Notebooks format.
 - [/gabrieleight/ICT-research-data](https://github.com/gabrieleight/ICT-research-data) - In this repository, there are all the research data produced in the undergraduate research scholarship programs in which i participate/participated. This is an effort to follow open science policy.
